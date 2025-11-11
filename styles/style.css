@@ -18,6 +18,10 @@
     font-family: "Poppins", sans-serif;
 }
 
+button {
+    color: #000;
+}
+
 body {
     background: var(--bg);
     color: var(--main-color);
